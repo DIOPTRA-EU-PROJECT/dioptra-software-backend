@@ -28,7 +28,6 @@ info:
   contact:
     name: Netcompany
     url: https://netcompany.com/
-    email: rid.devops@netcompany.com
   license:
     name: Apache 2.0
     url: https://www.apache.org/licenses/LICENSE-2.0.html
@@ -382,7 +381,7 @@ tags:
   - name: AI Module
     description: |
       Endpoints for AI model data exchange and analysis results.
-  - name: PAO Module
+  - name: BIO Module
     description: |
       Biospecimen and sample management data export.
   - name: Data Ingestion
@@ -1395,11 +1394,11 @@ paths:
           description: Internal server error
 
   # ----------------------------------------------------------
-  # PAO Module
+  # BIO Module
   # ----------------------------------------------------------
-  /pao_get_data:
+  /bio_get_data:
     get:
-      tags: [PAO Module]
+      tags: [BIO Module]
       summary: Export biospecimen data as CSV
       description: |
         Returns biospecimen and sample quality data as a 
