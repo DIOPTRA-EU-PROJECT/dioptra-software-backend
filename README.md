@@ -1,4 +1,6 @@
 # DIOPTRA Software Backend
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19737796.svg)](https://doi.org/10.5281/zenodo.19737796)
+
 Secure clinical data curation, storage and API gateway infrastructure for the DIOPTRA platform.
 - Secure clinical data ingestion via Logstash pipelines
 - Elasticsearch-based clinical data storage
