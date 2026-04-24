@@ -33,7 +33,6 @@ clinical data through multiple role-based modules:
 Full API documentation available at:
 - 📄 [swagger.yml](./docs/swagger.yml)
 - 🌐 [Interactive API Docs][(https://dioptra-eu-project.github.io/data-curation-storage/)
-- 
 
 ## Prerequisites
 
