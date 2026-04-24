@@ -1,4 +1,4 @@
-# data-curation-storage
+# DIOPTRA Software Backend
 Secure clinical data curation, storage and API gateway infrastructure for the DIOPTRA platform.
 - Secure clinical data ingestion via Logstash pipelines
 - Elasticsearch-based clinical data storage
@@ -10,7 +10,7 @@ Secure clinical data curation, storage and API gateway infrastructure for the DI
 
 ## Overview
 
-The DIOPTRA Curation & Storage component (DIOPTRA Software Backend) provides the secure 
+The DIOPTRA Software Backend (DIOPTRA Curation & Storage) provides the secure 
 infrastructure for ingesting, storing, and accessing clinical 
 research data collected across all DIOPTRA partner clinical sites.
 
